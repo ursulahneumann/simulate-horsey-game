@@ -3,3 +3,9 @@
 
 # tables_for_introduction excel and png files
 tables*
+
+# Pictures of game
+*.jpg
+
+# Article word doc
+*.docx
