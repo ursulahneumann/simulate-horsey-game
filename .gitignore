@@ -4,7 +4,8 @@
 # tables_for_introduction excel and png files
 tables*
 
-# Pictures of game
+# Pictures of game and results
+*.png
 *.jpg
 
 # Article word doc
